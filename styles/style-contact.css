@@ -1,0 +1,74 @@
+/*DEVELOPER: Karolyn J. Valerio, IS117-005, Fall 2024 */
+/* the styles for originally CONTACT page now all but index page*/
+
+/*styling nav menu*/
+.navbar-collapse {
+    background-color: darkslategrey !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: whitesmoke !important;
+}
+
+/*Styling body of CONTACT*/
+body {
+    background-color: lightgray !important;
+}
+
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.btn-primary{
+    color: black;
+}
+
+/*Styling titles*/
+.title-of-pages{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold !important;
+    font-style: italic !important;
+    text-align: center;
+}
+
+/*Styling body images*/
+.img-body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Styling top paragraphs*/
+.paragraph1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+/*Styling lists*/
+.Ingredients{
+    font-weight: bold !important;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.listing{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+/*Linking to sub-pages*/
+.Linking{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+  }
+/*Styling footer*/
+footer {
+    background-color: darkslategray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center !important;
+    color: white !important;
+}

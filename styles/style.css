@@ -1,0 +1,113 @@
+/*DEVELOPER: Karolyn J. Valerio, IS117-005, Fall 2024 */
+/* the styles for MAIN/HOME page*/
+
+header {
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*styling nav menu */
+.navbar-collapse {
+    background-color: darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: whitesmoke !important;
+}
+
+/*Styling body*/
+.FoodImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center; 
+}
+
+.bordered{
+  border: 3.5px solid black;
+  padding: 20px;
+  width: 850px; 
+  display: block;  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Styling my Cards*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray !important;
+  }
+  
+  /* Container to hold both cards */
+  .card-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 20px;
+  }
+  
+  /* Card styles */
+  .card {
+    background-color: darkslategray !important;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Hover / float */
+  .card:hover {
+    transform: translateY(-30px);
+  }
+  
+  /* style c-header */
+  .card h3 {
+    text-align: center;
+    margin: 0 0 10px;
+    color: whitesmoke;
+  }
+  
+  /* style c-description */
+  .card p {
+    color: white;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  
+  /* style of c-button */
+  .card .btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background-color 0.5s ease;
+  }
+  
+  .card .btn:hover {
+    background-color: darkgray;
+  }  
+
+
+/*Styling footer*/
+footer {
+    background-color: darkslategray !important;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+    color: whitesmoke !important;
+    padding: 10px 0; 
+}
