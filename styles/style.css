@@ -40,6 +40,13 @@ p {
   margin-right: auto;
 }
 
+@media(max-width: 480px){
+    .bordered{
+        border 3.5px solid black;
+        padding: 10px;
+    }
+}
+
 /*Styling my Cards*/
 body {
     font-family: Arial, sans-serif;
