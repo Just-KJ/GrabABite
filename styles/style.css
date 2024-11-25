@@ -19,7 +19,7 @@ h1 {
 }
 
 /*Styling body*/
-.FoodImg{
+#FoodImg{
     display: block;
     margin-left: auto;
     margin-right: auto;
