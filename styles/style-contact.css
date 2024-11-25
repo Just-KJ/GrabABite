@@ -39,6 +39,8 @@ body {
     margin-right: auto;
     height: auto;
     max-height: 400px !important;
+    width: auto;
+    max-width: 400px !important;
 }
 
 /*Styling top paragraphs*/
