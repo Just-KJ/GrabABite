@@ -34,7 +34,7 @@ p {
 .bordered{
   border: 3.5px solid black;
   padding: 20px;
-  width: 850px; 
+  width: 75%; 
   display: block;  
   margin-left: auto;
   margin-right: auto;
